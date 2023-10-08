@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures":{
+    "layer0": "mastermindmod:item/bowling_ball_item"
+  }
+}

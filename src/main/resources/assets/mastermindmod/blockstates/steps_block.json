@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mastermindmod:block/steps_block"
+    }
+  }
+}

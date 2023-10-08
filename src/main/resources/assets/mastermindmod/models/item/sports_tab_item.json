@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures":{
+    "layer0": "mastermindmod:item/sports_tab_item"
+  }
+}

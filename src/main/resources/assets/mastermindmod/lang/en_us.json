@@ -1,0 +1,13 @@
+{
+  "item.mastermindmod.basketball_ball_item": "Basket Ball",
+  "item.mastermindmod.football_ball_item": "Foot Ball",
+  "item.mastermindmod.rugby_ball_item": "Rugby Ball",
+  "item.mastermindmod.bowling_ball_item": "Bowling Ball",
+  "item.mastermindmod.sports_tab_item": "Medal",
+
+  "block.mastermindmod.steps_block": "Steps Block",
+  "block.mastermindmod.zircon_block": "Zircon Block",
+
+  "item_group.mastermindmod.sports_tab": "Sports Tab",
+  "item_group.mastermindmod.minerals_tab": "Minerals Tab"
+}
